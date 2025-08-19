@@ -19,5 +19,4 @@ export default defineConfig(({ mode }) => ({
       "@": path.resolve(__dirname, "./src"),
     },
   },
-   base: "/ayah-canvas-ai/", // 👈 Added this line
 }));
